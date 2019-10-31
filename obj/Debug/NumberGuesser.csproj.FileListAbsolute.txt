@@ -1,0 +1,7 @@
+C:\Users\vinat\Source\Repos\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\vinat\Source\Repos\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\vinat\Source\Repos\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\vinat\Source\Repos\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\vinat\Source\Repos\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\vinat\Source\Repos\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\vinat\Source\Repos\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
